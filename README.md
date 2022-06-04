@@ -66,7 +66,6 @@ Pada predifine variable saya membuat file baru dengan nama latihan2.php.
     ?>
 ```
 Lalu untuk mengaksesnya dengan membuka link berikut :<br>
-http://localhost/Lab7Web/lab7_php_dasar/latihan2.php?nama=Faza<br>
 Berikut outputnya<br>
 ![Gambar](Gambar/Gambar6.png)<br>
 
